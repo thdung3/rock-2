@@ -39,3 +39,20 @@ h1 {
   color: red;
   border: 10px solid red;
 }
+.tie {
+  color: black;
+  border: 10px solid black;
+}
+.prompt-win {
+  color: green;
+}
+.prompt-lose {
+  color: red;
+}
+.prompt-tie {
+  color: black;
+}
+.start {
+  cursor: pointer;
+}
+
